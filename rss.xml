@@ -4,7 +4,7 @@
         <description><![CDATA[Gypsy Maiden]]></description>
         <link>https://thegrid.ai/gypsy-maiden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 15:59:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 16:00:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gypsy-maiden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.facebook.com/gypsymaidenproject/videos/160032964337022/</link>
             <guid isPermaLink="false">35a932cf-fefd-42f4-b421-2ec93009ecc4</guid>
             <pubDate>Sat, 28 May 2016 15:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13087769_269387970068187_8531689451148274698_n.jpg?oh=eb2e5f821e0bddec0a48a64bf28a758d&oe=57D21D0B"></article>]]></description>
+            <link>https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13087769_269387970068187_8531689451148274698_n.jpg?oh=eb2e5f821e0bddec0a48a64bf28a758d&amp;oe=57D21D0B</link>
+            <guid isPermaLink="false">96f881ec-e841-4c3e-b127-a66be38a4057</guid>
+            <pubDate>Sat, 28 May 2016 15:59:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
