@@ -1,4 +1,3 @@
-layout_spectrum: 0.5003816564567387
 typography_spectrum: 0.15127069922164083
 color:
   brandStrength: 0.3622462316416204
@@ -11,7 +10,10 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-name: Gypsy Maiden
+opengraph:
+  image: null
+layout_spectrum: 0.5003816564567387
 author:
   name: Maurine Dodge
   email: silvatungfox@gmail.com
+name: Gypsy Maiden
