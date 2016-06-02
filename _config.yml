@@ -1,4 +1,4 @@
-typography_spectrum: 0.15127069922164083
+typography_spectrum: 0.787951153004542
 color:
   brandStrength: 0.3622462316416204
   lightness: 0.2946701890323311
@@ -12,7 +12,7 @@ color:
     - '#9768D1'
 opengraph:
   image: null
-layout_spectrum: 0.5003816564567387
+layout_spectrum: 0.5347665336448699
 analytics:
   google: UA-78600613-3
 author:
