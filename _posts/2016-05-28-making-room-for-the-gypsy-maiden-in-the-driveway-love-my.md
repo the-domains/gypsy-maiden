@@ -24,10 +24,10 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/gypsymaidenproject/videos/160032964337022/'
-datePublished: '2016-05-28T15:59:33.550Z'
-dateModified: '2016-05-28T15:58:39.287Z'
-starred: true
+datePublished: '2016-06-02T04:49:14.034Z'
+dateModified: '2016-06-02T04:49:13.353Z'
 sourcePath: _posts/2016-05-28-making-room-for-the-gypsy-maiden-in-the-driveway-love-my.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
