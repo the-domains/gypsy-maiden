@@ -1,11 +1,11 @@
 ---
 description: "In my search for someone with experience in solar installations on RV's, and basic electric knowledge, I found Colin Fullam of Retro Odyssey http://www.retroodyssey.com/ who told me on the phone his specialty was \"un-mickey mousing\" things.  I smiled as with vintage RV's some parts simply are no longer available, so sometimes you need to get a little creative to work around a problem or create a solution... fabricate a part.. sometimes the fabrications look pretty good, sometimes not so much.. Anyway, Colin and I had a bit of a chuckle over the mickey mousing thing but he seemed relatively impressed with some of the things I showed him I had done on Gypsy.  During our discussion of what I wanted/needed done, I mentioned the trouble I was having finding tires and a place that would put them on Gypsy. (they are an odd size apparently, they don't make the tires that are on her anymore, and places that had the tires did not want to put them on.. maybe because of the age of the coach...)  And that brings me to my second find, Colin came up with Commercial Tire Center,  on Gloria in Van Nuys, CA who came out and put six new tires on my coach in my driveway. "
-dateModified: '2016-06-02T01:23:01.073Z'
-datePublished: '2016-06-02T01:23:12.253Z'
+dateModified: '2016-06-02T04:32:16.627Z'
+datePublished: '2016-06-02T04:32:17.227Z'
 title: Two Great Finds For RV Sevice In Southern CA
 author: []
-starred: false
 sourcePath: _posts/2016-06-02-two-great-finds-for-rv-sevice-in-southern-ca.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
