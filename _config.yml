@@ -20,3 +20,7 @@ author:
   email: silvatungfox@gmail.com
   url: 'http://maurinedodgephotography.com/'
 name: Gypsy Maiden
+navigation:
+  - name: Gypsy Maiden on Facebook
+    url: 'https://www.facebook.com/gypsymaidenproject/?fref=ts'
+    type: external
