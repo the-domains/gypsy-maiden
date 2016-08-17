@@ -24,5 +24,8 @@ navigation:
   - name: Gypsy Maiden on Facebook
     url: 'https://www.facebook.com/gypsymaidenproject/?fref=ts'
     type: external
+  - name: My go to guy for Solar and electric issues
+    url: 'http://www.retroodyssey.com/'
+    type: external
 title: The Gypsy Maiden Project
 description: Ressurecting a London Aire Motorhome
